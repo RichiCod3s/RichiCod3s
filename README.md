@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichiCod3s
 - 👀 I’m interested in learning the basics of software engineering
-- 🌱 I’m currently learning C & Java
+- 🌱 I’m currently learning Java and Spring
 - 💞️ I’m looking to collaborate on simple projects
 
 
